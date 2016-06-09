@@ -5,12 +5,12 @@ Upon startup, users may create an account, login to an existing account, or play
 
 If played with an account, a record will be kept in a file for the number of wins, losses, and draws. Accounts continue to exist outside of program runtime, with account details stored in the "users.txt" file. Account records in the file are stored in this format:
 
-First line: Total number of registered users (So far, 5)
-Username
-Password
-E-mail
-Wins
-Losses
+First line: Total number of registered users (So far, 5)<br>
+Username<br>
+Password<br>
+E-mail<br>
+Wins<br>
+Losses<br>
 Draws
 
 Once a user is logged in, or playing as a guest, they may chose to play against another player or the computer. If playing against another player is selected, an option for player 2 to log in or play as a guest is offered.
