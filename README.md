@@ -3,7 +3,7 @@ C++ console program in which a user may play tic-tac-toe against another player 
 
 Upon startup, users may create an account, login to an existing account, or play as a guest. If played as a guest, no record of wins, losses, and draws will be kept.
 
-If played with an account, a record will be kept in a file for the number of wins, losses, and draws. Accounts continue to exist outside of program runtime, with account details stored in the "users.txt" file. Account records in the file are stored in this format:
+If played with an account, a record will be kept in a file for the number of wins, losses, and draws. Accounts continue to exist outside of program runtime, with account details stored in the "users.txt" file. Account records in the file are stored in the following format:
 
 First line: Total number of registered users (So far, 5)<br>
 Username<br>
